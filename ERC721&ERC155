@@ -1,0 +1,9 @@
+what is different between ERC20 and ERC1155 ? 
+
+The main difference between ERC-1155 and ERC-721 is that ERC-1155 allows for the creation of both fungible and non-fungible tokens within a single contract, while ERC-721 is specifically for creating non-fungible tokens.
+
+With ERC-1155, it is possible to create multiple types of tokens within a single contract, where each type of token can have its own unique properties, such as its own balance and metadata. This allows for greater flexibility and efficiency in managing a variety of token types, and also opens up new use cases such as creating tokens that can be used both as in-game items and currency.
+
+On the other hand, ERC-721 is specifically for creating unique digital assets, such as collectible items, virtual real estate, in-game items and more. Each token is unique and cannot be replaced by another token, and it allows for different attributes, metadata, and ownership history.
+
+In summary, ERC-1155 is more flexible and efficient for creating and managing a variety of token types, while ERC-721 is specifically for creating unique digital assets.
