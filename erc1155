@@ -1,0 +1,5 @@
+what is erc1155 ?
+
+ERC-1155 is a standard for creating tokens on the Ethereum blockchain. It allows for the creation of multiple, different types of tokens within a single contract, and also allows for the creation of tokens that can be both fungible (interchangeable, like Bitcoin) and non-fungible (unique, like collectible cards).
+
+The ERC-1155 standard is an extension of the ERC-20 and ERC-721 token standards, which allow for the creation of fungible and non-fungible tokens respectively, but with the ERC-1155 standard, it is possible to create both types of tokens in a single contract. This makes it more efficient and cost-effective to manage a variety of token types within a single contract. It also allows for new use cases, such as creating tokens that can be used as both in-game items and currency.
