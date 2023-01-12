@@ -1,0 +1,9 @@
+what is erc721 ?
+ERC-721 is a technical standard for creating non-fungible tokens (NFTs) on the Ethereum blockchain. It defines a set of rules and guidelines for creating, managing, and transferring unique digital assets on the Ethereum network. Unlike ERC-20 tokens, which are fungible and interchangeable, ERC-721 tokens are unique and cannot be replaced by another token.
+
+The ERC-721 standard is used to create a wide range of unique digital assets, such as collectible items, digital art, virtual real estate, in-game items, and more. Because each token is unique, they can have different attributes, metadata, and ownership history, which allows for a wide range of use cases.
+
+One of the main features of ERC-721 is that it allows to own and transfer unique assets, it also allows for the creation of smart contract that can interact with each other, and it can be used for different application like gaming, digital collectible, and more.
+
+
+
