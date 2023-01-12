@@ -1,2 +1,7 @@
 what is erc20 ?
 
+ERC-20 is a technical standard for creating tokens on the Ethereum blockchain. It defines a set of rules and guidelines for creating, managing, and transferring tokens on the Ethereum network. These rules include the way the tokens are transferred, the way the total supply of tokens is managed, and the way the balance of tokens is tracked for each address on the Ethereum blockchain.
+
+The ERC-20 standard is widely used for creating various types of tokens, such as utility tokens, security tokens, and stablecoins. It is also supported by most Ethereum wallets, decentralized exchanges, and other blockchain-based applications. This makes it a popular standard for creating and managing tokens on the Ethereum blockchain.
+
+The ERC-20 standard also allows for the creation of smart contract that can interact with each other and can be used for different application like fundraising, payment, gaming, and more. 
